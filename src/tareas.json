@@ -1,0 +1,22 @@
+{
+  "tareas":[
+      {
+        "titulo": "Tarea 1",
+        "responsable": "Carlos",
+        "descripcion": "Barrer",
+        "prioridad": "2"
+      },
+      {
+        "titulo": "Tarea 2",
+        "responsable": "Jose",
+        "descripcion": "Cocinar ",
+        "prioridad": "1"
+      },
+      {
+        "titulo": "Tarea 3",
+        "responsable": "Yair",
+        "descripcion": "Lavar los platos",
+        "prioridad": "2"
+      }
+  ]
+}
